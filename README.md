@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello 👋
+
+- 🌵 I am a CS and geology student at the University of North Carolina at Chapel Hill, graduating May 2024
+- 🌊 Searching for software engineering internships for summer 2022
+- 🌤️HackNC organizer, Girls Who Code teaching assistant and do research in UNC's CS department
+
+### Contact Me
+[Linkedin!](https://www.linkedin.com/in/shriyamandal/)
+
+
+
 
 <!--
 **shriyamandal/shriyamandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
