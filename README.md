@@ -1,8 +1,7 @@
 ### Hello 👋
 
 - 🌵 I am a CS and geology student at the University of North Carolina at Chapel Hill, graduating May 2024
-- 🌊 Searching for software engineering internships for summer 2022
-- 🌤️HackNC organizer, Girls Who Code teaching assistant and do research in UNC's CS department
+- 🌊 Searching for software engineering internships for summer 2023
 
 ### Contact Me
 [Linkedin!](https://www.linkedin.com/in/shriyamandal/)
