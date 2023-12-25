@@ -1,7 +1,5 @@
 ### Hello 👋
 
-- 🌵 I am a CS and geology student at the University of North Carolina at Chapel Hill, graduating May 2024
-
 ### Contact Me
 [Linkedin!](https://www.linkedin.com/in/shriyamandal/)
 
